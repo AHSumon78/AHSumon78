@@ -1,7 +1,7 @@
-<p align="center"><img src="assets/banner.svg" alt="Abul Hasan Sumon — Mobile, Web and AI" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Abul Hasan Sumon — Senior Developer at Butterfly Devs" width="100%"></p>
 
 <h1 align="center">Hi there, I'm Abul Hasan Sumon 👋</h1>
-<p align="center"><b>Building useful software. Learning through every project.</b></p>
+<p align="center"><b>Senior Developer at Butterfly Devs | Mobile, Web & AI</b></p>
 
 <p align="center">
 <a href="https://ahsumon78.github.io/"><img src="https://img.shields.io/badge/Portfolio-101820?style=for-the-badge&logo=googlechrome&logoColor=65dccb" alt="Visit my portfolio"></a>
@@ -13,7 +13,10 @@
 
 <img align="right" src="assets/portrait.jpg" alt="Abul Hasan Sumon" width="180">
 
-- 📱 Exploring mobile application development with **Flutter and Dart**.
+- 💼 **Senior Developer at Butterfly Devs**.
+- 📱 Building mobile applications with **Flutter and Dart**.
+- 🛠️ **Main Programmer for NafsGuard**, currently in development.
+- 📖 Developing **IQC (Quran Quiz)** for a client — a private project, approximately **95% complete** as of September 2026.
 - 🌐 Working on web projects with **HTML, CSS, JavaScript and Python**.
 - 🧠 Learning through **AI experiments, algorithms and systems projects**.
 - 🛠️ I enjoy turning practical problems into opportunities to build and learn.
@@ -26,11 +29,20 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css,php,java,cpp,c,git,github&perline=6" alt="Flutter, Dart, Python, JavaScript, HTML, CSS, PHP, Java, C++, C, Git and GitHub">
 
+## 🚧 Current work
+
+| Project | Role / focus | Status |
+| --- | --- | --- |
+| **IQC (Quran Quiz)** | Development for a client | Private · Approximately 95% complete (September 2026) |
+| **NafsGuard** | Main Programmer | In development |
+
 ## 🚀 Featured repositories
 
 | Project | About | Stack |
 | --- | --- | --- |
-| [Smart Campus Security](https://github.com/AHSumon78/smart_campus_security) | Face authentication, attendance, access logs and a campus web dashboard. | AI · Web |
+| [Mess Meal Manager](https://github.com/AHSumon78/mess_meal_manager) | Shared meal tracking, member payments, billing, PDF reports and Google Drive backup. | Flutter · Dart · SQLite |
+| [My Business Manager](https://github.com/AHSumon78/my_business) | Customers, stock, sales, payments and finances with local and Google Drive backups. | Flutter · Dart · SQLite |
+| [Smart Campus Security](https://github.com/AHSumon78/Smart_Campus_Security_Public) | Face verification, live detection, attendance and access monitoring. | Python · Django · AI |
 | [Salah Master](https://github.com/AHSumon78/salah_master) | A prayer-focused Flutter application repository. | Flutter · Dart |
 | [To-Do List](https://github.com/AHSumon78/To-Do-List) | To-do app screens and interface screenshots. | Flutter · Dart |
 | [Face Verification](https://github.com/AHSumon78/face_verification) | Exploring face verification in Python. | Python |
